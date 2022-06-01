@@ -1,4 +1,4 @@
-# dio-tqi-desafio-bootcamp-1
+# dio-tqi-desafio-bootcamp-2-CSS
 DIO/TQI CSS 挑战的 github 典藏。
 
 ## 其他语言的 Readme

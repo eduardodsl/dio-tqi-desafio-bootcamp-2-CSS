@@ -1,4 +1,4 @@
-# dio-tqi-desafio-bootcamp-1
+# dio-tqi-desafio-bootcamp-2-CSS
 Basic github repository for the DIO/TQI bootcamp, CSS challenge.
 
 ## Readme in other languages:
